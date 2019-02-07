@@ -1,5 +1,5 @@
 
-Formulario de Contacto con PHP-JQuery-AJAX
+## Formulario de Contacto con PHP-JQuery-AJAX
 
 <li> El formulario de contacto PHP-AJAX se usa para enviar información de contacto al back-end sin actualizar la página. </li>
 
